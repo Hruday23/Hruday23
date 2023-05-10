@@ -32,11 +32,3 @@ Skills:
 - I have worked as a freelancer for one of the websites. By their response on my content, I have decided to start my own website. "https://funtrafoo.com/author/hruday/"
 
 - I am most interested in all the political stuff going around the country.
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hruday23&theme=dark&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hruday23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
